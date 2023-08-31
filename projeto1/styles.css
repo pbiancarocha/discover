@@ -1,0 +1,17 @@
+body {
+  background: rgb(167, 184, 231);
+  /*rgb(167, 184, 231); o cod da cor do site*/
+}
+p#unico1 {
+  color: red;
+}
+#unico2 {
+  color: green;
+}
+header {
+  border: 5px solid red;
+}
+h1 {
+  border: 2px solid green;
+  height: 50;
+}
